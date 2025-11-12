@@ -29,7 +29,7 @@
 - nginx 1.21.1
 
 ## ER図
-![alt](./erd.png)
+![alt](/src/erd.png)
 
 ## URL
 - 開発環境：http://localhost/
